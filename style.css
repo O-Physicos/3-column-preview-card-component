@@ -24,6 +24,10 @@ p {
   height: 475px;
 }
 
+.sedan-text {
+  padding: 50px 30px 30px 50px;
+}
+
 .suv-div {
   background-color: #006970;
   width: 325px;
@@ -33,6 +37,10 @@ p {
   bottom: 475px;
 }
 
+.suv-text {
+  padding: 50px 30px 30px 50px;
+}
+
 .luxury-div {
   background-color: #004241;
   width: 325px;
@@ -40,4 +48,8 @@ p {
   position: relative;
   left: 650px;
   bottom: 950px;
+}
+
+.luxury-text {
+  padding: 50px 30px 30px 50px;
 }
